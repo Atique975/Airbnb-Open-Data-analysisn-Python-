@@ -2,8 +2,8 @@
 #Project Report
 
 Title: Airbnb Data Analysis
-I
-ntroduction
+
+Introduction
 This report provides an analysis of Airbnb listings using data on prices, room types, neighbourhoods, and reviews. The aim is to understand the distribution of listing prices by neighbourhood, the count of listings by room type, and various other factors that influence the Airbnb rental market.
 
 1. Distribution of Listing Prices by Neighbourhood
